@@ -1,5 +1,6 @@
 # PW
 Programación para Windows
+
 Este sitio web es parte del material de apoyo para la materia **Programación para Windows**. Está alojado en GitHub Pages y contiene recursos interactivos, presentaciones y enlaces a herramientas útiles.
 
 ## Contenido
